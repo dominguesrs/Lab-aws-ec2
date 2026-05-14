@@ -15,7 +15,7 @@ Este repositório contém a documentação técnica, anotações e insights adqu
 ### 1. Inicialização da Instância EC2
 * **O que foi feito:** Criação de uma instância EC2 (`t3.micro`) utilizando o sistema operacional [Amazon Linux 2023 - Free tier].
 * **Configuração:** Instalação e inicialização de um servidor básico .
-* **Insight Técnico:** Configurar o *Security Group* corretamente (liberando a porta 22 para SSH) é fundamental para o acesso externo, seguindo o princípio do privilégio mínimo.
+* **Insight Técnico:** Configurar o *Security Group* corretamente (liberando a porta 22 para SSH), seguindo o princípio do privilégio mínimo.
 * **Print da criação da AMI: `![Criando EC2](imagens/ec2-instance-00.png)`*
 * **Print da criação da AMI: `![Criando EC2](imagens/ec2-instance-01.png)`*
 * **Print da criação da AMI: `![Criando EC2](imagens/ec2-instance-02.png)`*
